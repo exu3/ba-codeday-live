@@ -26,9 +26,7 @@ export default function Home() {
           <Link href="/wifi">
             <a className={styles.card}>
               <h2>WiFi &rarr;</h2>
-              <p>
-                Missed the WiFi password at the opening ceremony? Find it here.
-              </p>
+              <p>Internet. Wahooooooooo</p>
             </a>
           </Link>
 
