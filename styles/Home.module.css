@@ -29,8 +29,12 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: #ed8281;
   text-decoration: none;
+}
+
+.codedayTitle {
+  color: #ed8281;
 }
 
 .title a:hover,
